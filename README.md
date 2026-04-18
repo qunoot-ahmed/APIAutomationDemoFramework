@@ -116,7 +116,6 @@ baseUrl = "https://api.example.com";
 
 * CI/CD integration (GitHub Actions or Jenkins)
 * Reporting (Allure or Extent Reports)
-* Logging (Log4j)
 * Data-driven testing
 * Parallel execution
 

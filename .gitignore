@@ -1,0 +1,21 @@
+# Maven build files
+target/
+
+# Test reports and logs
+test-output/
+logs/
+*.log
+
+# Eclipse-generated files
+.settings/
+.classpath
+.project
+
+# Other IDE files
+.idea/
+*.iml
+.vscode/
+
+# Environment and secret files
+.env
+.env.*
